@@ -4,5 +4,4 @@ Poppycrow Linux is a fresh take on Linux, that's designed to be easy to use and 
 As of right now, there is no built ISO. We are still figuring things out.
 
 ## How can I help?
-Create pull requests, without the help of LLMs obviously. But everything is private right now so you can't really do that either.
-
+Anything from fixing typos to adding functionality matters. If you see something wrong or missing, feel free to open a pull request! 
